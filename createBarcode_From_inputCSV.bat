@@ -1,0 +1,1 @@
+java -jar ZxingBarcodeWriter0.1.0.jar inputCSV.csv
